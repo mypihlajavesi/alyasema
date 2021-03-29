@@ -4,7 +4,7 @@ Liikkuva kylä -hanke on vuosien 2020 - 2021 aikana Keuruun Pihlajavedellä tote
 
 Mittauslaitteisto rakennettiin Arduino MKR WAN 1310 -mikrokontrollereita ja niiden käyttämää LoRa -modulaatiotekniikkaa hyväksikäyttäen. Tältä sivulta löydät Älyaseman mittauslaitteiston lähdekoodit, joiden avulla vastaavan mittauslaitteiston rakentaminen jonnekin muualle on mahdollista.
 
-# Dokumentiointi
+# Dokumentointi
 
 Doc-hakemisto sisältää dokumentaation Liikkuva kylä-hankkeen yhteydessä toteutetusta mittauslaitteistosta. Aineisto sisältää listauksen mittauslaitteistossa käytetyistä komponenteista, ohjeen mittauslaitteiston kokoamiseksi ja ohjelmoimiseksi.
 
